@@ -4,7 +4,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class stepDefination {
+public class AddPlaceAPI {
     @Given("Addplace payload")
     public void addplace_payload() {
         System.out.println("this is payload");
